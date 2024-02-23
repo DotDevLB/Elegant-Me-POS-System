@@ -32,11 +32,8 @@ The Clothing Shop POS System is a comprehensive JavaFX application built with Ma
 
 ## Screenshots
 
-Replace `URL_of_screenshot_here` with the actual URLs to your screenshots.
-
-- Sales Transactions: ![Sales Transactions](URL_of_screenshot_here)
-- Inventory Dashboard: ![Inventory Dashboard](URL_of_screenshot_here)
-- Customer Profiles: ![Customer Profiles](URL_of_screenshot_here)
+![Screenshot 2024-02-23 193511](https://github.com/joe-hadchity/ElegantMe_POS/assets/105626252/c0b434f3-3d8b-40da-919b-99c2e1fa0b02)
+![Screenshot 2024-02-23 233827](https://github.com/joe-hadchity/ElegantMe_POS/assets/105626252/7603089e-9a42-46ee-b639-a36cd012844f)
 
 ## Installation
 
